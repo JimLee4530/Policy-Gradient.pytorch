@@ -25,5 +25,6 @@ Python 3.6.2 pytorch 0.3.0
 
 ## References
 [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+
 [莫烦Python](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/5-1-A-PG/)
 
